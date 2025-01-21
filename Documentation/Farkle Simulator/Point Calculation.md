@@ -118,4 +118,4 @@ $$
 	- If $p = 0 \land r' = 0$, return $R(0, 0)$ (Farkle).  
 	- If $p = 0 \land r' = 1$, return $R(-1000, 0)$ (penalty for rolling over with no points).  
 	- If $p \neq 0$, return $R(p, r')$.
-- `False`: Return $R(0, 0)$.
+- `False`: Return $R(-1000, 0)$ (penalty for remaining dice).
