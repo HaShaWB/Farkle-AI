@@ -1,3 +1,5 @@
+# Farkle Rules
+
 ## 1. Game Overview
 
 - **Number of Players**: 2

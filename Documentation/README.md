@@ -1,3 +1,5 @@
+# Farkle AI
+
 A Python-JAX-based reinforcement learning agent designed to master the Farkle dice game, leveraging advanced RL algorithms for strategy optimization and gameplay enhancement.
 
 ---
@@ -6,7 +8,7 @@ A Python-JAX-based reinforcement learning agent designed to master the Farkle di
 Farkle is a classic dice game played with six dice, where players compete to score points by rolling specific combinations. The game blends elements of strategy, risk management, and probability, making it a fun yet challenging experience. The primary goal is to reach a predetermined score, typically 10,000 points, before your opponent.
 
 ---
-## [[Farkle Rules]]
+## [Farkle Rules](Farkle%20Rules.md)
 
 1. **Scoring Points**: Roll the dice to create specific combinations that score points. For example, a single "1" scores 100 points, a "5" scores 50 points, and three of the same number provide additional points.
 2. **Choosing Additional Rolls**: Decide whether to roll the remaining dice after scoring some, aiming to increase your total points.
@@ -20,7 +22,7 @@ Farkle is simple in its rules, yet its core lies in evaluating risks and making 
 
 - **Farkle Simulator**
     - Score Calculator: Takes dice results and selected dice as input and returns the score.
-    - State Class:
+    - [State](Farkle%20Simulator/State%20Representation%20(Encoding).md):
         - Target Score: The score required to win the game (e.g., 10,000 points).
         - Player's Total Score: The score the player has "secured."
         - Opponent's Total Score: The score the opponent has "secured."
