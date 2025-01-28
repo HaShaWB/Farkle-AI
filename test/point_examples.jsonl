@@ -1,0 +1,4 @@
+{"dice result": [4, 0, 0, 0, 0, 2], "selection": [0, 0, 0, 0, 0, 2], "roll over": false, "predicted score": [-1000, false], "actual score": -1000}
+{"dice result": [3, 0, 0, 0, 0, 2], "selection": [3, 0, 0, 0, 1, 0], "roll over": false, "predicted score": [-1000, false], "actual score": -1000}
+{"dice result": [1, 2, 2, 0, 0, 1], "selection": [0, 0, 0, 0, 0, 0], "roll over": true, "predicted score": [100, true], "actual score": 100}
+{"dice result": [1, 0, 0, 0, 2, 0], "selection": [1, 0, 0, 0, 3, 0], "roll over": false, "predicted score": [-1000, false], "actual score": -1000}
